@@ -45,7 +45,7 @@ This is a simple FAQ chatbot that uses [n8n](https://n8n.io/) for automation and
 > ![image](https://github.com/user-attachments/assets/42439c87-e1bc-468f-8d23-22c81b0e3791)
 
 
-## 🛠️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the Repo
 
