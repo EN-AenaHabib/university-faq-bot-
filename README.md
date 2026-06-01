@@ -5,9 +5,9 @@
 
 This is a simple FAQ chatbot that uses [n8n](https://n8n.io/) for automation and a Groq-hosted LLM to respond to user questions. The chatbot interface is built with HTML and interacts with a webhook flow deployed via n8n.
 
-## 🚀 Features
+##  Features
 
-* Clean, modern chatbot UI
+* Clean, modern chatbot interface
 * User input sent to an n8n webhook
 * n8n workflow forwards the question to a language model (via Groq)
 * Scrapes and refers to a specific FAQ page for answers
