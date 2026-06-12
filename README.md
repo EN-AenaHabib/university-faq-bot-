@@ -7,7 +7,7 @@ This is a simple FAQ chatbot that uses [n8n](https://n8n.io/) for automation and
 
 ##  Features
 
-* Clean, modern chatbot interface
+* Clean and modern chatbot interface
 * User input sent to an n8n webhook
 * n8n workflow forwards the question to a language model (via Groq)
 * Scrapes and refers to a specific FAQ page for answers
